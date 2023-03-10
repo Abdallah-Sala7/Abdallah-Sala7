@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://abdallah-sala7.github.io/abdallah/](https://abdallah-sala7.github.io/abdallah/)
 
-- 💬 Ask me about **React js, machine learning**
+- 💬 Ask me about **React js, React native**
 
-- 📫 How to reach me **abdallahsalah138@gmail.com**
+- 📫 How to reach me **abdallah.react@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
